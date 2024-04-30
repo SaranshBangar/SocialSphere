@@ -38,7 +38,7 @@ const Register = () => {
           <h1>Social Sphere</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
-            alias totam numquam ipsa, error nam Lorem, ipsum dolor.,
+            alias totam numquam ipsa, error nam Lorem, ipsum .,
             consequatur.
           </p>
           <span>Do you have an account?</span>
