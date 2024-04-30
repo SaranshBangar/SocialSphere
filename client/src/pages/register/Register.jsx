@@ -15,14 +15,14 @@ const Register = () => {
   const [err, setErr] = useState(null);
 
   const handleChange = e => {
-    setInputs(prev => ({...prev, [e.target.name]:e.target.value}));
+    setInputs((prev) => ({...prev, [e.target.name]:e.target.value}));
   };
 
   const handleClick = async (e) => {
     e.preventDefault();
 
     try {
-      await axios.post("http://localhost:8800/api/auth/register", inputs)
+      await axios.post("http://localhost:8800/api/auth/register", inputs);
     }
     catch (err) {
       setErr(err.response.data);
