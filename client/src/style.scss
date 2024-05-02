@@ -51,6 +51,14 @@ $themes: (
   }
 }
 
-body::-webkit-scrollbar {
-  display: none;
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-track {
+    background-color: rgb(50 50 50);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(115 115 115);
+    height: 5px;
 }
