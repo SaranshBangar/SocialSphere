@@ -34,7 +34,7 @@ const Profile = () => {
             <a href="http://instagram.com">
               <InstagramIcon fontSize="large" />
             </a>
-            <a href="http://facebook.com">
+            <a href="http://twitter.com">
               <TwitterIcon fontSize="large" />
             </a>
             <a href="http://facebook.com">
