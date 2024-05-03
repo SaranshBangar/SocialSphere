@@ -37,9 +37,7 @@ const Register = () => {
         <div className="left">
           <h1>Social Sphere</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
-            alias totam numquam ipsa, error nam Lorem, ipsum .,
-            consequatur.
+            Ready to join the SocialSphere community? Create your account below and start connecting with friends, family, and like-minded individuals. 
           </p>
           <span>Do you have an account?</span>
           <Link to="/login">
