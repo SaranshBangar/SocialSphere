@@ -40,7 +40,7 @@ const Profile = () => {
             <a href="http://facebook.com">
               <LinkedInIcon fontSize="large" />
             </a>
-            <a href="http://facebook.com">
+            <a href="http://pinterest.com">
               <PinterestIcon fontSize="large" />
             </a>
           </div>
