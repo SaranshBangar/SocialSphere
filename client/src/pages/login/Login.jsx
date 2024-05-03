@@ -37,9 +37,7 @@ const Login = () => {
         <div className="left">
           <h1>Social Sphere</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
-            alias totam numquam ipsa exercitationem dignissimos, error nam,
-            consequatur.
+            Welcome to SocialSphere, your digital hub for connection and discovery! Sign in below to unlock a world of networking, sharing, and endless possibilities.
           </p>
           <span>Don't have an account?</span>
           <Link to="/register">
