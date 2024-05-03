@@ -25,11 +25,11 @@ const Posts = () => {
     },
     {
       id: 2,
-      name: "Jane Doe",
+      name: "Boss Man",
       userId: 2,
       profilePic:
-        "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=1600",
-      desc: "Tenetur iste voluptates dolorem rem commodi voluptate pariatur, voluptatum, laboriosam consequatur enim nostrum cumque! Maiores a nam non adipisci minima modi tempore.",
+        "https://assets.leetcode.com/users/avatars/avatar_1700541438.png",
+      desc: "First post on this amazing web app",
     },
   ];
 
